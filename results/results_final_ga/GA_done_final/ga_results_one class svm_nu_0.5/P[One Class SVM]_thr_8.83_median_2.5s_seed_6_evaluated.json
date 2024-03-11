@@ -1,0 +1,2806 @@
+[
+    {
+        "id": "c11730",
+        "legs": 3,
+        "total_height": 51.1737709652597,
+        "radius_bottom": 13.482790110628557,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            3.874863859175876,
+            7.610920337805303
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 210.94167299607193,
+        "plausibility (FAMD GMM)": 2.0993768134033295,
+        "plausibility (FAMD Mahalanobis)": 1.161666176357955,
+        "plausibility (SVM)": 1.1474162280376796,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 7.915458341941115,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.852906764044004,
+        "wave": 1680129.3735830246,
+        "combined": 44272507.47410334,
+        "compression": 37299718.42261208,
+        "tipover": 6892983.159399083,
+        "torque": 2556096.202097902
+    },
+    {
+        "id": "c11782",
+        "legs": 3,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 20.5083504187299,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            21.299404163710623,
+            21.674926657221473
+        ],
+        "connection_types": [
+            "X",
+            "K",
+            "NONE"
+        ],
+        "Cost": 392.67299813228794,
+        "plausibility (FAMD GMM)": 2.3259506079260457,
+        "plausibility (FAMD Mahalanobis)": 2.002173059512986,
+        "plausibility (SVM)": -1.242654724320564,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.476811581073003,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 2.148124925706563,
+        "wave": 408520.0386760207,
+        "combined": 96872795.82564075,
+        "compression": 96395354.1696499,
+        "tipover": 582467.5536696193,
+        "torque": 161714.00201361603
+    },
+    {
+        "id": "m1149",
+        "legs": 4,
+        "total_height": 93.5301562224049,
+        "radius_bottom": 20.5083504187299,
+        "radius_top": 8.32396840027908,
+        "n_layers": 4,
+        "layer_heights": [
+            45.3644121476721,
+            84.24548742591621
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 424.36931842545306,
+        "plausibility (FAMD GMM)": 0.454979851840106,
+        "plausibility (FAMD Mahalanobis)": 0.477866234957238,
+        "plausibility (SVM)": 0.9212784243298651,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.828060274065452,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.42194574980089783,
+        "wave": 1740261.4859686948,
+        "combined": 34543537.79112375,
+        "compression": 29083997.915476967,
+        "tipover": 5232136.858710027,
+        "torque": 1718839.6205239207
+    },
+    {
+        "id": "m1656",
+        "legs": 4,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 26.17821184096038,
+        "radius_top": 10.771274411375003,
+        "n_layers": 4,
+        "layer_heights": [
+            17.88825153927141,
+            21.674926657221473
+        ],
+        "connection_types": [
+            "K",
+            "X",
+            "X"
+        ],
+        "Cost": 760.6450649258315,
+        "plausibility (FAMD GMM)": 3.434314719461142,
+        "plausibility (FAMD Mahalanobis)": 1.4584685691007362,
+        "plausibility (SVM)": -1.9711015999349875,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.669714948516496,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.9161130344642423,
+        "wave": 241736.10113260357,
+        "combined": 49057297.84105398,
+        "compression": 49779851.93423448,
+        "tipover": 183942.27325184026,
+        "torque": 71839.06634788825
+    },
+    {
+        "id": "m2189",
+        "legs": 4,
+        "total_height": 88.37199377530118,
+        "radius_bottom": 23.358408197791807,
+        "radius_top": 10.771274411375003,
+        "n_layers": 5,
+        "layer_heights": [
+            10.41604756519228,
+            12.684722027392395,
+            44.42309328080969
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "X",
+            "K"
+        ],
+        "Cost": 1724.278512819943,
+        "plausibility (FAMD GMM)": 6.194422246214295,
+        "plausibility (FAMD Mahalanobis)": 2.2403746192587866,
+        "plausibility (SVM)": -0.9994742698372128,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 4.80820590272455,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 6.168679900508463,
+        "wave": 88046.77356698844,
+        "combined": 32784282.224739052,
+        "compression": 33066845.115821112,
+        "tipover": 480872.091704095,
+        "torque": 65425.766176071884
+    },
+    {
+        "id": "c4987",
+        "legs": 4,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            18.448772449906315,
+            44.00249150671975
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "X"
+        ],
+        "Cost": 932.9909484843377,
+        "plausibility (FAMD GMM)": 3.4255691260029435,
+        "plausibility (FAMD Mahalanobis)": 0.1850079038624542,
+        "plausibility (SVM)": -1.5388065231173917,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": -3.1614515379007315,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.04840121582678947,
+        "wave": 116022.38138130208,
+        "combined": 33712625.33925919,
+        "compression": 34361770.02077184,
+        "tipover": 422410.98904455366,
+        "torque": 78169.07054423701
+    },
+    {
+        "id": "c11546",
+        "legs": 3,
+        "total_height": 27.409393431538888,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            9.358510753468586,
+            17.627813036337088
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 125.50164796164248,
+        "plausibility (FAMD GMM)": 5.721385441587639,
+        "plausibility (FAMD Mahalanobis)": 0.8090033527597642,
+        "plausibility (SVM)": -0.141377576239909,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.740792296665603,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.6571650143270897,
+        "wave": 926788.2421338178,
+        "combined": 59007758.77888843,
+        "compression": 56911834.95589875,
+        "tipover": 2406330.097931424,
+        "torque": 1962231.4853225
+    },
+    {
+        "id": "m2015",
+        "legs": 4,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 28.119032336534556,
+        "radius_top": 12.634764309052956,
+        "n_layers": 4,
+        "layer_heights": [
+            18.448772449906315,
+            22.710256472503172
+        ],
+        "connection_types": [
+            "X",
+            "K",
+            "X"
+        ],
+        "Cost": 1238.1630390622586,
+        "plausibility (FAMD GMM)": 7.129072844819236,
+        "plausibility (FAMD Mahalanobis)": 1.2165883195081895,
+        "plausibility (SVM)": -1.115709256784759,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 6.356579053844095,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.4490084813469757,
+        "wave": 103107.15101914256,
+        "combined": 43498059.8247644,
+        "compression": 45005834.16146733,
+        "tipover": 339312.4404616144,
+        "torque": 49130.85277063752
+    },
+    {
+        "id": "c3023",
+        "legs": 4,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 13.482790110628557,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            51.58637940207369,
+            53.556616921904784
+        ],
+        "connection_types": [
+            "K",
+            "X",
+            "NONE"
+        ],
+        "Cost": 950.2747643561185,
+        "plausibility (FAMD GMM)": 3.3041638388404344,
+        "plausibility (FAMD Mahalanobis)": 0.9461150457492608,
+        "plausibility (SVM)": 0.621377386990043,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 5.006343336203395,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.36655680360196286,
+        "wave": 442079.3534138318,
+        "combined": 16086145.481199043,
+        "compression": 15460521.478096975,
+        "tipover": 636174.4658282906,
+        "torque": 198299.99150365812
+    },
+    {
+        "id": "c1723",
+        "legs": 4,
+        "total_height": 76.58853429723519,
+        "radius_bottom": 26.17821184096038,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            39.729652650064004,
+            44.00249150671975
+        ],
+        "connection_types": [
+            "K",
+            "K",
+            "K"
+        ],
+        "Cost": 1402.1390484777853,
+        "plausibility (FAMD GMM)": 1.3636933827678706,
+        "plausibility (FAMD Mahalanobis)": 0.7374483467914474,
+        "plausibility (SVM)": 0.1602807894884486,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.601742137269225,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.5790376093899656,
+        "wave": 53439.12634929187,
+        "combined": 21108062.43119775,
+        "compression": 20930120.119308136,
+        "tipover": 304746.8125279771,
+        "torque": 72271.91059095427
+    },
+    {
+        "id": "m2219",
+        "legs": 4,
+        "total_height": 80.60525499639434,
+        "radius_bottom": 13.482790110628557,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            65.5096634653887,
+            79.37707873988195
+        ],
+        "connection_types": [
+            "NONE",
+            "K",
+            "X"
+        ],
+        "Cost": 711.5034149724767,
+        "plausibility (FAMD GMM)": 5.876672852635915,
+        "plausibility (FAMD Mahalanobis)": 1.04209359752595,
+        "plausibility (SVM)": 1.244713485572897,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.031655869321526,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.5106090944274122,
+        "wave": 1495995.469887257,
+        "combined": 34074957.8890653,
+        "compression": 26455146.02692642,
+        "tipover": 7006176.473657166,
+        "torque": 1916428.6185105604
+    },
+    {
+        "id": "c4003",
+        "legs": 4,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 13.482790110628557,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            51.58637940207369,
+            53.556616921904784
+        ],
+        "connection_types": [
+            "K",
+            "K",
+            "NONE"
+        ],
+        "Cost": 956.8855487194628,
+        "plausibility (FAMD GMM)": 3.2924349595615965,
+        "plausibility (FAMD Mahalanobis)": 0.9275377046944387,
+        "plausibility (SVM)": 1.4973653495058223,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 7.40290157285617,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.34057737746119976,
+        "wave": 437810.37146521674,
+        "combined": 15894431.698027018,
+        "compression": 15547652.272572035,
+        "tipover": 630054.6207808459,
+        "torque": 190479.1728246921
+    },
+    {
+        "id": "c9649",
+        "legs": 3,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            3.874863859175876,
+            18.448772449906315
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 273.240350947554,
+        "plausibility (FAMD GMM)": 5.17039216038059,
+        "plausibility (FAMD Mahalanobis)": 0.8136669603340245,
+        "plausibility (SVM)": -1.0193518601106368,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 7.8979091112119,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.6259496909095752,
+        "wave": 372855.1671385616,
+        "combined": 89148373.24620207,
+        "compression": 88797758.79491726,
+        "tipover": 949299.8641673698,
+        "torque": 477800.81663397513
+    },
+    {
+        "id": "m2301",
+        "legs": 4,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 21.930654648389535,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            18.448772449906315,
+            21.674926657221473
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "X"
+        ],
+        "Cost": 231.11096084927595,
+        "plausibility (FAMD GMM)": 2.676642909806066,
+        "plausibility (FAMD Mahalanobis)": 1.7348369654582696,
+        "plausibility (SVM)": -1.2302689076286177,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.597121750995658,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.3392257190412256,
+        "wave": 646255.8309816248,
+        "combined": 67682578.60549836,
+        "compression": 66966059.60997673,
+        "tipover": 1315289.694997753,
+        "torque": 1145570.001063277
+    },
+    {
+        "id": "c10640",
+        "legs": 3,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 19.913177395342156,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            15.741766990455003,
+            21.299404163710623
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 216.87722946358633,
+        "plausibility (FAMD GMM)": 4.0278745716834,
+        "plausibility (FAMD Mahalanobis)": 1.5968500929800307,
+        "plausibility (SVM)": -1.1950846086273024,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.12233022717729,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.0520461243290438,
+        "wave": 616830.0329128093,
+        "combined": 79303187.29554744,
+        "compression": 78092906.67772599,
+        "tipover": 1616080.0129084012,
+        "torque": 1337774.4112034182
+    },
+    {
+        "id": "c10735",
+        "legs": 3,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            1.4153952875131242,
+            44.00249150671975
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "X"
+        ],
+        "Cost": 349.3945794300266,
+        "plausibility (FAMD GMM)": 5.755818187047455,
+        "plausibility (FAMD Mahalanobis)": 0.4051684663510538,
+        "plausibility (SVM)": -0.13708937671225874,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 4.4210528420433555,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.3080751107795212,
+        "wave": 1198981.8810955063,
+        "combined": 46796966.7135184,
+        "compression": 42730450.01340285,
+        "tipover": 4265066.347940738,
+        "torque": 2393235.6508913212
+    },
+    {
+        "id": "c11216",
+        "legs": 4,
+        "total_height": 93.5301562224049,
+        "radius_bottom": 23.358408197791807,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            44.00249150671975,
+            45.3644121476721
+        ],
+        "connection_types": [
+            "K",
+            "X",
+            "K"
+        ],
+        "Cost": 1594.4281687969242,
+        "plausibility (FAMD GMM)": 5.672311552609142,
+        "plausibility (FAMD Mahalanobis)": 0.8755340874407915,
+        "plausibility (SVM)": -0.08282808415014165,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 7.680287708931301,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.3176916856176071,
+        "wave": 61579.48499850984,
+        "combined": 19994697.12750347,
+        "compression": 20191718.841348924,
+        "tipover": 370716.6807552533,
+        "torque": 82346.01106629753
+    },
+    {
+        "id": "m2345",
+        "legs": 3,
+        "total_height": 51.1737709652597,
+        "radius_bottom": 19.608277730762147,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            1.4153952875131242,
+            47.12913100003523
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "X"
+        ],
+        "Cost": 502.6487637937223,
+        "plausibility (FAMD GMM)": 6.899674002351533,
+        "plausibility (FAMD Mahalanobis)": 0.1809698371042647,
+        "plausibility (SVM)": -1.1355573880679848,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 2.2163354206215082,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.06815822222985624,
+        "wave": 1104249.1734485403,
+        "combined": 47410949.68202135,
+        "compression": 44039208.373664804,
+        "tipover": 3597133.7484924677,
+        "torque": 2174623.6226062546
+    },
+    {
+        "id": "c11624",
+        "legs": 4,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            51.58637940207369,
+            53.556616921904784
+        ],
+        "connection_types": [
+            "K",
+            "NONE",
+            "K"
+        ],
+        "Cost": 973.0016662375532,
+        "plausibility (FAMD GMM)": 4.681162672938178,
+        "plausibility (FAMD Mahalanobis)": 1.2646831468274478,
+        "plausibility (SVM)": 0.6319661499485201,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 5.8512823305517045,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.497865692256049,
+        "wave": 557722.4502932947,
+        "combined": 18890110.650890812,
+        "compression": 19120218.978592232,
+        "tipover": 341926.4319541723,
+        "torque": 96194.3682931074
+    },
+    {
+        "id": "c10125",
+        "legs": 3,
+        "total_height": 51.1737709652597,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            29.390127897945302,
+            47.12913100003523
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 213.73617357218254,
+        "plausibility (FAMD GMM)": 2.303278995801572,
+        "plausibility (FAMD Mahalanobis)": 0.7851405362194197,
+        "plausibility (SVM)": 0.8332233308419128,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 5.967101158200675,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.21729122474914853,
+        "wave": 1600307.8929029214,
+        "combined": 45038681.865170486,
+        "compression": 39314014.154594414,
+        "tipover": 5871629.136160248,
+        "torque": 2457345.634458549
+    },
+    {
+        "id": "m2314",
+        "legs": 3,
+        "total_height": 25.828198553912156,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            14.833654908650953,
+            15.741766990455003
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "X"
+        ],
+        "Cost": 546.136228893092,
+        "plausibility (FAMD GMM)": 2.4111629964292662,
+        "plausibility (FAMD Mahalanobis)": 0.9520617914254847,
+        "plausibility (SVM)": -2.3988941739682494,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 4.583445250554227,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.3131859791068,
+        "wave": 122568.52988486242,
+        "combined": 74975849.0005236,
+        "compression": 74553986.79715468,
+        "tipover": 587155.9943507201,
+        "torque": 113234.99672685572
+    },
+    {
+        "id": "c4479",
+        "legs": 3,
+        "total_height": 42.266675301838426,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            2.4750162049833744,
+            39.729652650064004
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 441.3182943952765,
+        "plausibility (FAMD GMM)": 5.92477613071366,
+        "plausibility (FAMD Mahalanobis)": 0.3498733655486948,
+        "plausibility (SVM)": -0.4603265724246959,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 3.9879502219127225,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.4220466209838136,
+        "wave": 544787.7780032137,
+        "combined": 86472424.61748022,
+        "compression": 86811386.44248499,
+        "tipover": 1111513.1259360719,
+        "torque": 386998.48643182265
+    },
+    {
+        "id": "c10561",
+        "legs": 3,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            15.741766990455003,
+            21.674926657221473
+        ],
+        "connection_types": [
+            "X",
+            "K",
+            "NONE"
+        ],
+        "Cost": 418.67173102084735,
+        "plausibility (FAMD GMM)": 3.828267701153625,
+        "plausibility (FAMD Mahalanobis)": 1.5894376147933986,
+        "plausibility (SVM)": -1.2279037022214019,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.310952727260563,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.0072003542160513,
+        "wave": 192566.2012768315,
+        "combined": 94283306.06986845,
+        "compression": 93842935.05821627,
+        "tipover": 571742.254510565,
+        "torque": 114438.90412440563
+    },
+    {
+        "id": "c11410",
+        "legs": 4,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            18.448772449906315,
+            21.674926657221473
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 296.47496499834904,
+        "plausibility (FAMD GMM)": 6.15849349930661,
+        "plausibility (FAMD Mahalanobis)": 0.6313840221240468,
+        "plausibility (SVM)": 0.7702025792159284,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 5.038155816505924,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.40763367209827805,
+        "wave": 1373798.0231450559,
+        "combined": 35307950.504430965,
+        "compression": 30984560.16685539,
+        "tipover": 4227139.721412517,
+        "torque": 1808830.889560432
+    },
+    {
+        "id": "c9381",
+        "legs": 4,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            1.4153952875131242,
+            2.4750162049833744
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "NONE"
+        ],
+        "Cost": 742.8771834684158,
+        "plausibility (FAMD GMM)": 3.311462498679356,
+        "plausibility (FAMD Mahalanobis)": 1.618366050568626,
+        "plausibility (SVM)": -0.40294509617163987,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 0.22710033408811725,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 2.2615474813410135,
+        "wave": 889902.1005699035,
+        "combined": 32293658.33795101,
+        "compression": 29338775.49817607,
+        "tipover": 3463321.7682299335,
+        "torque": 1227792.0271212673
+    },
+    {
+        "id": "c9106",
+        "legs": 4,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            1.4153952875131242,
+            18.448772449906315
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "X"
+        ],
+        "Cost": 1184.2131277475996,
+        "plausibility (FAMD GMM)": 3.0991722577682217,
+        "plausibility (FAMD Mahalanobis)": 1.267876889388076,
+        "plausibility (SVM)": -1.0394175591397121,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": -2.045299318787375,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.6290685841087154,
+        "wave": 212545.72530415087,
+        "combined": 29774280.277233433,
+        "compression": 30549285.72978535,
+        "tipover": 547065.3270930228,
+        "torque": 144032.4776621125
+    },
+    {
+        "id": "c11447",
+        "legs": 3,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 19.913177395342156,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            15.741766990455003,
+            21.299404163710623
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "X"
+        ],
+        "Cost": 380.1843926603567,
+        "plausibility (FAMD GMM)": 4.0278745716834,
+        "plausibility (FAMD Mahalanobis)": 1.5968500929800307,
+        "plausibility (SVM)": -1.9173516462338163,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 7.881657592969624,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.0520461243290438,
+        "wave": 219417.5454126535,
+        "combined": 84975611.93697704,
+        "compression": 84659024.90404339,
+        "tipover": 655835.2730332484,
+        "torque": 150639.2411890813
+    },
+    {
+        "id": "c11741",
+        "legs": 4,
+        "total_height": 71.87129204888623,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 12.292970036566404,
+        "n_layers": 4,
+        "layer_heights": [
+            9.358510753468586,
+            41.69747544073957
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 358.1068423324524,
+        "plausibility (FAMD GMM)": 5.390059297709437,
+        "plausibility (FAMD Mahalanobis)": 0.832578842541059,
+        "plausibility (SVM)": 1.357965600971975,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 6.259654701835526,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.16372339269998726,
+        "wave": 1683930.2405139115,
+        "combined": 34804142.516970135,
+        "compression": 28543365.624202322,
+        "tipover": 6077258.280625949,
+        "torque": 1877614.0939562572
+    },
+    {
+        "id": "m2081",
+        "legs": 3,
+        "total_height": 25.828198553912156,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            8.818636374177427,
+            14.833654908650953
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "X"
+        ],
+        "Cost": 239.92612857198566,
+        "plausibility (FAMD GMM)": 7.098849177435114,
+        "plausibility (FAMD Mahalanobis)": 0.789789170210017,
+        "plausibility (SVM)": -0.789498583672104,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.721764057554196,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.6624828189980203,
+        "wave": 601312.0870490761,
+        "combined": 65489148.74622799,
+        "compression": 64254969.89928625,
+        "tipover": 1729251.07603187,
+        "torque": 1398666.4896977018
+    },
+    {
+        "id": "c11276",
+        "legs": 3,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 13.482790110628557,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            51.58637940207369,
+            53.556616921904784
+        ],
+        "connection_types": [
+            "K",
+            "K",
+            "X"
+        ],
+        "Cost": 859.0863418583441,
+        "plausibility (FAMD GMM)": 4.3119424155890975,
+        "plausibility (FAMD Mahalanobis)": 1.3952935078172175,
+        "plausibility (SVM)": 0.5934768200238616,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 6.979530644405285,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.764028612868362,
+        "wave": 560818.8321061009,
+        "combined": 21352097.957760934,
+        "compression": 20729362.684804026,
+        "tipover": 945100.8450430452,
+        "torque": 368452.7946128464
+    },
+    {
+        "id": "c10780",
+        "legs": 4,
+        "total_height": 27.409393431538888,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            9.358510753468586,
+            15.741766990455003
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 164.13603897681617,
+        "plausibility (FAMD GMM)": 6.470811352311893,
+        "plausibility (FAMD Mahalanobis)": 0.6323247747289493,
+        "plausibility (SVM)": 0.16023487132523906,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 6.803533443165467,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.1601928740760883,
+        "wave": 820107.6782854932,
+        "combined": 40855712.93667929,
+        "compression": 38869660.64472555,
+        "tipover": 2008463.838386146,
+        "torque": 1454853.782000256
+    },
+    {
+        "id": "c10330",
+        "legs": 3,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 19.913177395342156,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            41.69747544073957,
+            44.00249150671975
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 340.9326600719799,
+        "plausibility (FAMD GMM)": 2.617189331598593,
+        "plausibility (FAMD Mahalanobis)": 0.7975482866670854,
+        "plausibility (SVM)": -0.3915195712543542,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 2.7509073828837405,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.2171855969806682,
+        "wave": 1138692.4613106183,
+        "combined": 46221382.48392363,
+        "compression": 42953192.01139119,
+        "tipover": 4075227.648128211,
+        "torque": 2270756.8741297536
+    },
+    {
+        "id": "c9710",
+        "legs": 4,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            1.4153952875131242,
+            2.4750162049833744
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 521.0374079952857,
+        "plausibility (FAMD GMM)": 3.0888085414954936,
+        "plausibility (FAMD Mahalanobis)": 1.5850237339545492,
+        "plausibility (SVM)": 0.40561802044114836,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 3.4748632504194195,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.8427487834196228,
+        "wave": 1313882.5590661995,
+        "combined": 33179374.666744933,
+        "compression": 28246620.156489443,
+        "tipover": 4611790.207457359,
+        "torque": 1585832.8018469017
+    },
+    {
+        "id": "c11592",
+        "legs": 3,
+        "total_height": 47.53160120268135,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            7.905682031832551,
+            39.729652650064004
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 418.97852425883434,
+        "plausibility (FAMD GMM)": 6.073607696647524,
+        "plausibility (FAMD Mahalanobis)": 0.4036281681617898,
+        "plausibility (SVM)": -0.5775162279541397,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 4.073231309324871,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.5477161889629762,
+        "wave": 591519.0303904724,
+        "combined": 72416928.87567131,
+        "compression": 71677009.04639448,
+        "tipover": 1774386.8994287127,
+        "torque": 785892.8515209209
+    },
+    {
+        "id": "m2144",
+        "legs": 4,
+        "total_height": 71.87129204888623,
+        "radius_bottom": 23.358408197791807,
+        "radius_top": 10.771274411375003,
+        "n_layers": 4,
+        "layer_heights": [
+            15.004042073126174,
+            17.627813036337088
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "X"
+        ],
+        "Cost": 1334.0875870904238,
+        "plausibility (FAMD GMM)": 4.797165141281103,
+        "plausibility (FAMD Mahalanobis)": 1.2999665591361353,
+        "plausibility (SVM)": -1.4527600520845048,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": -0.8606253894822586,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.3217868551625074,
+        "wave": 188400.35622559264,
+        "combined": 35067838.02803759,
+        "compression": 34817794.81579738,
+        "tipover": 401182.7028113736,
+        "torque": 61850.27629704532
+    },
+    {
+        "id": "m2000",
+        "legs": 4,
+        "total_height": 76.58853429723519,
+        "radius_bottom": 26.17821184096038,
+        "radius_top": 8.959042549953267,
+        "n_layers": 4,
+        "layer_heights": [
+            39.729652650064004,
+            53.556616921904784
+        ],
+        "connection_types": [
+            "K",
+            "X",
+            "X"
+        ],
+        "Cost": 1286.7349662936238,
+        "plausibility (FAMD GMM)": 0.4748861810292049,
+        "plausibility (FAMD Mahalanobis)": 0.734413034396564,
+        "plausibility (SVM)": -1.297419296692444,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 4.640851268519066,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.4825040835010075,
+        "wave": 64378.83320632947,
+        "combined": 24460139.161516886,
+        "compression": 24753039.643931776,
+        "tipover": 356387.2436569719,
+        "torque": 72070.45874696127
+    },
+    {
+        "id": "c11036",
+        "legs": 3,
+        "total_height": 32.94552995236398,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            4.544287183532259,
+            15.741766990455003
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 142.413544024843,
+        "plausibility (FAMD GMM)": 5.052931797722626,
+        "plausibility (FAMD Mahalanobis)": 0.6294057695781873,
+        "plausibility (SVM)": -0.1343390828031139,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.052313144944893,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.2174863882685596,
+        "wave": 1009726.7302083606,
+        "combined": 56933659.34786965,
+        "compression": 54579641.895783804,
+        "tipover": 2671486.8454937767,
+        "torque": 2077633.314111155
+    },
+    {
+        "id": "c10845",
+        "legs": 3,
+        "total_height": 29.78103971966194,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            7.905682031832551,
+            18.448772449906315
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 132.21927551254808,
+        "plausibility (FAMD GMM)": 8.04061875047401,
+        "plausibility (FAMD Mahalanobis)": 0.7147875191547677,
+        "plausibility (SVM)": -0.09195751251357853,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.413442910135894,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.4183551773947762,
+        "wave": 969445.6247402448,
+        "combined": 56383774.445028074,
+        "compression": 54067894.48452324,
+        "tipover": 2577408.8299705535,
+        "torque": 2044969.1088700509
+    },
+    {
+        "id": "c11653",
+        "legs": 4,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 19.913177395342156,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            9.358510753468586,
+            18.448772449906315
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 510.5213000077634,
+        "plausibility (FAMD GMM)": 3.6564870072433084,
+        "plausibility (FAMD Mahalanobis)": 0.8134447617095705,
+        "plausibility (SVM)": -0.32419158939511794,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 2.055820173438036,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.5044646880952115,
+        "wave": 351059.12721486005,
+        "combined": 34150387.969549604,
+        "compression": 33444619.277224444,
+        "tipover": 1232949.1908293397,
+        "torque": 547160.2565356366
+    },
+    {
+        "id": "c11228",
+        "legs": 4,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 10.6402203976961,
+        "n_layers": 4,
+        "layer_heights": [
+            21.674926657221473,
+            44.00249150671975
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "X"
+        ],
+        "Cost": 1049.25620227294,
+        "plausibility (FAMD GMM)": 4.844333856442912,
+        "plausibility (FAMD Mahalanobis)": 0.2122800580861638,
+        "plausibility (SVM)": -1.124481542022456,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": -2.786695090163292,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.42112293832443193,
+        "wave": 102578.36218899647,
+        "combined": 32579449.519799557,
+        "compression": 32752514.174158935,
+        "tipover": 463006.8112488041,
+        "torque": 78177.49534403654
+    },
+    {
+        "id": "m2378",
+        "legs": 3,
+        "total_height": 23.36338436657337,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            5.606329242743397,
+            19.07384525344203
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 270.91269122151016,
+        "plausibility (FAMD GMM)": 4.263658262257248,
+        "plausibility (FAMD Mahalanobis)": 0.8297118624619766,
+        "plausibility (SVM)": -1.0012301344925212,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 7.606139617269964,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.5656608078503051,
+        "wave": 408827.0491702064,
+        "combined": 79668937.90616408,
+        "compression": 79027895.78233959,
+        "tipover": 1102130.3626072356,
+        "torque": 612702.5378234219
+    },
+    {
+        "id": "m2353",
+        "legs": 3,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            18.448772449906315,
+            21.674926657221473
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 233.21976482133522,
+        "plausibility (FAMD GMM)": 6.15849349930661,
+        "plausibility (FAMD Mahalanobis)": 0.6313840221240468,
+        "plausibility (SVM)": 0.659850082149513,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 5.465222189134646,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.40763367209827805,
+        "wave": 1652412.12891206,
+        "combined": 46726039.03607055,
+        "compression": 41312313.27830355,
+        "tipover": 5712003.155329867,
+        "torque": 2411774.4222707245
+    },
+    {
+        "id": "c10717",
+        "legs": 3,
+        "total_height": 47.53160120268135,
+        "radius_bottom": 19.913177395342156,
+        "radius_top": 8.32396840027908,
+        "n_layers": 4,
+        "layer_heights": [
+            44.22899928887886,
+            45.3644121476721
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 190.02476499652823,
+        "plausibility (FAMD GMM)": 3.138796781592882,
+        "plausibility (FAMD Mahalanobis)": 1.5383388686100716,
+        "plausibility (SVM)": 0.05945652539727542,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 6.216817362850771,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.1911633330064664,
+        "wave": 1309540.4580065047,
+        "combined": 49645391.81563947,
+        "compression": 46081782.84626226,
+        "tipover": 3852928.231186762,
+        "torque": 2308008.315585975
+    },
+    {
+        "id": "c11339",
+        "legs": 3,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            2.4750162049833744,
+            18.448772449906315
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 468.8139341907462,
+        "plausibility (FAMD GMM)": 3.5418411714725115,
+        "plausibility (FAMD Mahalanobis)": 1.3133156204542755,
+        "plausibility (SVM)": -0.021778100907572817,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 2.9758442354159076,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.0993835558825058,
+        "wave": 1272994.563802794,
+        "combined": 44048715.00015186,
+        "compression": 39420046.93189963,
+        "tipover": 4916061.835571918,
+        "torque": 1937678.724829007
+    },
+    {
+        "id": "c10525",
+        "legs": 3,
+        "total_height": 32.94552995236398,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            4.544287183532259,
+            15.741766990455003
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 141.26552920088267,
+        "plausibility (FAMD GMM)": 4.980737997506219,
+        "plausibility (FAMD Mahalanobis)": 0.7060670469022641,
+        "plausibility (SVM)": -0.022706053075500332,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.0840511869202,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.42256867311536617,
+        "wave": 1027129.1340308677,
+        "combined": 53628717.85519234,
+        "compression": 51033103.5266053,
+        "tipover": 2808733.244155271,
+        "torque": 2142016.1420602547
+    },
+    {
+        "id": "c11705",
+        "legs": 4,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 19.913177395342156,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            15.741766990455003,
+            18.448772449906315
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "X"
+        ],
+        "Cost": 389.84771428465507,
+        "plausibility (FAMD GMM)": 5.541906421027578,
+        "plausibility (FAMD Mahalanobis)": 1.3323060871958907,
+        "plausibility (SVM)": -1.5134820028705085,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 5.334102081696649,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.7289370667608761,
+        "wave": 513041.7704390264,
+        "combined": 55091568.84050931,
+        "compression": 54422876.596053466,
+        "tipover": 1238700.144198135,
+        "torque": 953124.0070031292
+    },
+    {
+        "id": "c11463",
+        "legs": 3,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 13.482790110628557,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            3.874863859175876,
+            7.610920337805303
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 393.86860509410275,
+        "plausibility (FAMD GMM)": 2.3069524306404596,
+        "plausibility (FAMD Mahalanobis)": 1.3441484011804605,
+        "plausibility (SVM)": 0.7048783622132455,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 5.770462624899141,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.03226103927602253,
+        "wave": 989539.6354873814,
+        "combined": 38923039.5125202,
+        "compression": 35580249.91639112,
+        "tipover": 4019325.7844856004,
+        "torque": 900321.9019937543
+    },
+    {
+        "id": "m2365",
+        "legs": 3,
+        "total_height": 63.23366406688981,
+        "radius_bottom": 19.913177395342156,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            46.03816964895034,
+            48.583137169585186
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 358.6898734302086,
+        "plausibility (FAMD GMM)": 2.256783595111769,
+        "plausibility (FAMD Mahalanobis)": 0.7368359721480552,
+        "plausibility (SVM)": -0.29193588089905154,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 2.7105545629331544,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.15956848207594554,
+        "wave": 1219727.5130071717,
+        "combined": 45243319.62361304,
+        "compression": 41650326.23734215,
+        "tipover": 4446761.983764423,
+        "torque": 2336197.899102921
+    },
+    {
+        "id": "c11545",
+        "legs": 4,
+        "total_height": 88.37199377530118,
+        "radius_bottom": 23.358408197791807,
+        "radius_top": 10.771274411375003,
+        "n_layers": 4,
+        "layer_heights": [
+            44.42309328080969,
+            45.3644121476721
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "K"
+        ],
+        "Cost": 1480.7810503634716,
+        "plausibility (FAMD GMM)": 3.4775896333773697,
+        "plausibility (FAMD Mahalanobis)": 0.9357442108548158,
+        "plausibility (SVM)": -0.5321681067854249,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 4.0425611433169575,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.3600680471907278,
+        "wave": 92574.15164394802,
+        "combined": 37312465.94283977,
+        "compression": 37231355.32359158,
+        "tipover": 475193.44710402004,
+        "torque": 62307.578387760455
+    },
+    {
+        "id": "c10760",
+        "legs": 4,
+        "total_height": 71.87129204888623,
+        "radius_bottom": 18.918984064014545,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            17.627813036337088,
+            41.69747544073957
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 351.5352071159182,
+        "plausibility (FAMD GMM)": 6.521992924687079,
+        "plausibility (FAMD Mahalanobis)": 0.5908477926981445,
+        "plausibility (SVM)": 1.131625302821201,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 5.430828594721012,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.4373411402071543,
+        "wave": 1616304.8731105984,
+        "combined": 34637299.98543761,
+        "compression": 28914734.002134845,
+        "tipover": 5490780.53432118,
+        "torque": 1852432.1727531967
+    },
+    {
+        "id": "c11147",
+        "legs": 3,
+        "total_height": 29.78103971966194,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            7.905682031832551,
+            18.448772449906315
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "X"
+        ],
+        "Cost": 250.17974113911893,
+        "plausibility (FAMD GMM)": 8.04061875047401,
+        "plausibility (FAMD Mahalanobis)": 0.7147875191547677,
+        "plausibility (SVM)": -0.7141763783317905,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.073306621198178,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.4183551773947762,
+        "wave": 676201.9404704573,
+        "combined": 59965632.5076061,
+        "compression": 58418251.99370337,
+        "tipover": 1998440.08116087,
+        "torque": 1617389.2788676661
+    },
+    {
+        "id": "c11446",
+        "legs": 4,
+        "total_height": 88.37199377530118,
+        "radius_bottom": 23.358408197791807,
+        "radius_top": 10.771274411375003,
+        "n_layers": 5,
+        "layer_heights": [
+            10.41604756519228,
+            12.684722027392395,
+            44.00249150671975
+        ],
+        "connection_types": [
+            "X",
+            "K",
+            "X",
+            "X"
+        ],
+        "Cost": 1657.7090158597107,
+        "plausibility (FAMD GMM)": 6.247336009145727,
+        "plausibility (FAMD Mahalanobis)": 2.247070639055548,
+        "plausibility (SVM)": -0.655855809626464,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 6.020437163120755,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 6.211161430435983,
+        "wave": 102246.35655850766,
+        "combined": 32089608.35211675,
+        "compression": 31571325.022945147,
+        "tipover": 472399.8502475297,
+        "torque": 64744.23562669199
+    },
+    {
+        "id": "c11283",
+        "legs": 3,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 20.5083504187299,
+        "radius_top": 8.32396840027908,
+        "n_layers": 4,
+        "layer_heights": [
+            15.741766990455003,
+            21.299404163710623
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "X"
+        ],
+        "Cost": 401.750624697408,
+        "plausibility (FAMD GMM)": 4.086981437181763,
+        "plausibility (FAMD Mahalanobis)": 1.5093290265863384,
+        "plausibility (SVM)": -1.8304202576600423,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 7.555515493769146,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.8749161253679034,
+        "wave": 220198.20233811726,
+        "combined": 82450939.77327353,
+        "compression": 82148915.20628718,
+        "tipover": 655608.5094679684,
+        "torque": 142644.97089735616
+    },
+    {
+        "id": "c11786",
+        "legs": 3,
+        "total_height": 51.1737709652597,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            29.390127897945302,
+            44.00249150671975
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 200.90678232838303,
+        "plausibility (FAMD GMM)": 1.91191341447756,
+        "plausibility (FAMD Mahalanobis)": 0.8378265214956527,
+        "plausibility (SVM)": 0.45238566160932203,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 5.61945567887947,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.45914966055718587,
+        "wave": 1454310.984619214,
+        "combined": 45736188.953586504,
+        "compression": 41078191.51661739,
+        "tipover": 4797858.516688159,
+        "torque": 2423798.9307187167
+    },
+    {
+        "id": "c11344",
+        "legs": 4,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 13.482790110628557,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            3.874863859175876,
+            7.610920337805303
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 324.9068633000789,
+        "plausibility (FAMD GMM)": 2.3069524306404596,
+        "plausibility (FAMD Mahalanobis)": 1.3441484011804605,
+        "plausibility (SVM)": 1.5149394915733674,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 7.5113027252882265,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.03226103927602253,
+        "wave": 1640688.8566488281,
+        "combined": 34397638.332783535,
+        "compression": 27566809.052542984,
+        "tipover": 6527230.362555262,
+        "torque": 1890756.9362198892
+    },
+    {
+        "id": "c10813",
+        "legs": 3,
+        "total_height": 27.409393431538888,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            9.358510753468586,
+            15.741766990455003
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 126.85357325953117,
+        "plausibility (FAMD GMM)": 6.445668239932188,
+        "plausibility (FAMD Mahalanobis)": 0.6665214129696643,
+        "plausibility (SVM)": -0.2517666094528912,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.747635213890424,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.260240011892101,
+        "wave": 912168.9109256928,
+        "combined": 63368076.0121032,
+        "compression": 61480629.26577713,
+        "tipover": 2301170.9064382007,
+        "torque": 1898525.5693793427
+    },
+    {
+        "id": "m2326",
+        "legs": 3,
+        "total_height": 51.1737709652597,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            8.860774961388493,
+            29.390127897945302
+        ],
+        "connection_types": [
+            "K",
+            "X",
+            "X"
+        ],
+        "Cost": 788.4329693748593,
+        "plausibility (FAMD GMM)": 5.870787089128667,
+        "plausibility (FAMD Mahalanobis)": 0.40908978353371256,
+        "plausibility (SVM)": -0.5861002371972055,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 2.460121140037053,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.3738569600602233,
+        "wave": 112678.83228707993,
+        "combined": 40737143.47254957,
+        "compression": 40244407.74086119,
+        "tipover": 682000.7275804735,
+        "torque": 183195.23158810695
+    },
+    {
+        "id": "c10066",
+        "legs": 3,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 19.913177395342156,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            12.684722027392395,
+            18.448772449906315
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 416.21041220933097,
+        "plausibility (FAMD GMM)": 4.4645737546061675,
+        "plausibility (FAMD Mahalanobis)": 0.8149361837472276,
+        "plausibility (SVM)": -0.011707501958090116,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 2.811118316182265,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.2851220934787797,
+        "wave": 876025.8221267877,
+        "combined": 42425549.35740842,
+        "compression": 40820495.457708634,
+        "tipover": 3023152.9764511273,
+        "torque": 941089.678148473
+    },
+    {
+        "id": "m2371",
+        "legs": 4,
+        "total_height": 32.94552995236398,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            4.544287183532259,
+            15.741766990455003
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 180.58696064613804,
+        "plausibility (FAMD GMM)": 5.052931797722626,
+        "plausibility (FAMD Mahalanobis)": 0.6294057695781873,
+        "plausibility (SVM)": -0.029160243743793668,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 6.547600377456021,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.2174863882685596,
+        "wave": 848466.9873004415,
+        "combined": 42639740.761922196,
+        "compression": 40934581.18935835,
+        "tipover": 1966140.1761251169,
+        "torque": 1558224.7623472763
+    },
+    {
+        "id": "c11058",
+        "legs": 4,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 12.634764309052956,
+        "n_layers": 4,
+        "layer_heights": [
+            18.448772449906315,
+            22.710256472503172
+        ],
+        "connection_types": [
+            "K",
+            "K",
+            "K"
+        ],
+        "Cost": 1151.769618610153,
+        "plausibility (FAMD GMM)": 6.119981419035408,
+        "plausibility (FAMD Mahalanobis)": 0.5876521000941411,
+        "plausibility (SVM)": 1.1956551665150479,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 6.537308308485541,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.43254818160708375,
+        "wave": 71740.26768650292,
+        "combined": 22192186.22021351,
+        "compression": 22474076.914809965,
+        "tipover": 332963.0161547807,
+        "torque": 100275.94058576532
+    },
+    {
+        "id": "m2377",
+        "legs": 3,
+        "total_height": 29.78103971966194,
+        "radius_bottom": 19.913177395342156,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            18.14924201961123,
+            18.448772449906315
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 150.48692192716328,
+        "plausibility (FAMD GMM)": 1.1952315584824988,
+        "plausibility (FAMD Mahalanobis)": 0.6135959905920854,
+        "plausibility (SVM)": 0.16368032647889175,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.197427614876458,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.2043672030347441,
+        "wave": 1085177.8378233472,
+        "combined": 54188832.61901121,
+        "compression": 51531076.559494615,
+        "tipover": 3129540.432228999,
+        "torque": 1856820.1477406758
+    },
+    {
+        "id": "c11749",
+        "legs": 3,
+        "total_height": 51.1737709652597,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            8.860774961388493,
+            29.390127897945302
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 215.1846727990822,
+        "plausibility (FAMD GMM)": 6.422269747829637,
+        "plausibility (FAMD Mahalanobis)": 0.5076123781354043,
+        "plausibility (SVM)": 0.5671204534607122,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 5.756473291122104,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.4565487434309876,
+        "wave": 1530086.5213808701,
+        "combined": 47358325.781522684,
+        "compression": 42542298.888089664,
+        "tipover": 5131413.947439936,
+        "torque": 2350080.1574480864
+    },
+    {
+        "id": "m2359",
+        "legs": 4,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            18.448772449906315,
+            51.58637940207369
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "X"
+        ],
+        "Cost": 694.2581618804601,
+        "plausibility (FAMD GMM)": 0.8498249172126598,
+        "plausibility (FAMD Mahalanobis)": 0.3067798532697245,
+        "plausibility (SVM)": -0.7124898136933431,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 0.6318650761900777,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.35060500004782824,
+        "wave": 236008.55332018208,
+        "combined": 33909726.966094956,
+        "compression": 33724878.62678053,
+        "tipover": 1168682.5911606462,
+        "torque": 477575.8470108507
+    },
+    {
+        "id": "m2308",
+        "legs": 3,
+        "total_height": 71.87129204888623,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            18.448772449906315,
+            41.69747544073957
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 490.97069314761643,
+        "plausibility (FAMD GMM)": 6.639058608202765,
+        "plausibility (FAMD Mahalanobis)": 0.49916068173939776,
+        "plausibility (SVM)": -0.2698174931278934,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 3.1435884817295214,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.46277059593742464,
+        "wave": 456719.0296016663,
+        "combined": 43643101.00488679,
+        "compression": 42297128.89623041,
+        "tipover": 2277182.320512465,
+        "torque": 763774.0199134732
+    },
+    {
+        "id": "c11549",
+        "legs": 4,
+        "total_height": 76.58853429723519,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            39.729652650064004,
+            53.556616921904784
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 567.1871750194263,
+        "plausibility (FAMD GMM)": 1.0618805883863847,
+        "plausibility (FAMD Mahalanobis)": 0.3687645121695144,
+        "plausibility (SVM)": 0.580341576384138,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 3.7567779457110753,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.5006102129380405,
+        "wave": 934217.8863059214,
+        "combined": 31919244.232896943,
+        "compression": 27923049.219272763,
+        "tipover": 3401384.3984756772,
+        "torque": 1700644.9750268098
+    },
+    {
+        "id": "c11637",
+        "legs": 4,
+        "total_height": 76.58853429723519,
+        "radius_bottom": 19.913177395342156,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            18.448772449906315,
+            41.69747544073957
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 358.87113369383155,
+        "plausibility (FAMD GMM)": 5.862228721709301,
+        "plausibility (FAMD Mahalanobis)": 0.6083226345596147,
+        "plausibility (SVM)": 0.7869053721031869,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 5.919124254820101,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.4226072581438416,
+        "wave": 1550559.941352527,
+        "combined": 34676143.02763347,
+        "compression": 29785403.314550564,
+        "tipover": 4605216.037259043,
+        "torque": 1787037.101797968
+    },
+    {
+        "id": "c11751",
+        "legs": 3,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            1.4153952875131242,
+            44.00249150671975
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "NONE"
+        ],
+        "Cost": 709.3011186317478,
+        "plausibility (FAMD GMM)": 5.755818187047455,
+        "plausibility (FAMD Mahalanobis)": 0.4051684663510538,
+        "plausibility (SVM)": -0.995897696298774,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": -0.20504688286892403,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.3080751107795212,
+        "wave": 383854.62219119555,
+        "combined": 51337763.81390217,
+        "compression": 51024391.480975635,
+        "tipover": 921634.6782864553,
+        "torque": 138187.61122784202
+    },
+    {
+        "id": "c9310",
+        "legs": 4,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 10.6402203976961,
+        "n_layers": 4,
+        "layer_heights": [
+            2.4750162049833744,
+            51.58637940207369
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 519.0864600483756,
+        "plausibility (FAMD GMM)": 5.8447811918847465,
+        "plausibility (FAMD Mahalanobis)": 0.4601628726621957,
+        "plausibility (SVM)": 0.34360402546591695,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 2.6616715941894746,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.43359827548793994,
+        "wave": 835856.9742466763,
+        "combined": 31583893.895801324,
+        "compression": 28367756.691257782,
+        "tipover": 2933994.3581191846,
+        "torque": 1089703.9481374482
+    },
+    {
+        "id": "c11569",
+        "legs": 3,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 19.913177395342156,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            18.448772449906315,
+            21.299404163710623
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "NONE"
+        ],
+        "Cost": 462.0437625026707,
+        "plausibility (FAMD GMM)": 3.0174732956915298,
+        "plausibility (FAMD Mahalanobis)": 1.576735944582553,
+        "plausibility (SVM)": -1.4201657346837258,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 6.147251213668831,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.2048190711736613,
+        "wave": 284337.1290421703,
+        "combined": 69855740.9584783,
+        "compression": 69482547.20289794,
+        "tipover": 548220.2887956069,
+        "torque": 105207.80282905695
+    },
+    {
+        "id": "c11306",
+        "legs": 4,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            51.58637940207369,
+            53.556616921904784
+        ],
+        "connection_types": [
+            "K",
+            "X",
+            "NONE"
+        ],
+        "Cost": 956.5204591928781,
+        "plausibility (FAMD GMM)": 4.521783254750127,
+        "plausibility (FAMD Mahalanobis)": 1.2782958242731732,
+        "plausibility (SVM)": 0.0832367884495917,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 2.6626200461312557,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.1480813801104954,
+        "wave": 536815.6236814581,
+        "combined": 16892891.540970635,
+        "compression": 16572277.262857603,
+        "tipover": 403335.7394425318,
+        "torque": 123355.00981503127
+    },
+    {
+        "id": "m2383",
+        "legs": 4,
+        "total_height": 42.266675301838426,
+        "radius_bottom": 20.5083504187299,
+        "radius_top": 9.798979542561208,
+        "n_layers": 4,
+        "layer_heights": [
+            2.4750162049833744,
+            39.729652650064004
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "X"
+        ],
+        "Cost": 575.5434232641139,
+        "plausibility (FAMD GMM)": 4.588507977741337,
+        "plausibility (FAMD Mahalanobis)": 0.08950125549598768,
+        "plausibility (SVM)": -1.1101891741604581,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 1.606784039463836,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.0757908086027772,
+        "wave": 539637.0817098719,
+        "combined": 36692262.36512842,
+        "compression": 35534608.926752545,
+        "tipover": 1683997.440333636,
+        "torque": 967764.8702099349
+    },
+    {
+        "id": "c10693",
+        "legs": 4,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 20.5083504187299,
+        "radius_top": 8.32396840027908,
+        "n_layers": 4,
+        "layer_heights": [
+            15.741766990455003,
+            53.556616921904784
+        ],
+        "connection_types": [
+            "K",
+            "K",
+            "X"
+        ],
+        "Cost": 1146.1272156314265,
+        "plausibility (FAMD GMM)": 4.036227095336976,
+        "plausibility (FAMD Mahalanobis)": 0.10122945859897742,
+        "plausibility (SVM)": -0.14231366105578536,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 3.766007256555257,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.32955553232076085,
+        "wave": 149306.02057569404,
+        "combined": 25957398.54303634,
+        "compression": 25971020.570726734,
+        "tipover": 329968.22623177787,
+        "torque": 95002.83239217254
+    },
+    {
+        "id": "c11438",
+        "legs": 3,
+        "total_height": 51.1737709652597,
+        "radius_bottom": 20.5083504187299,
+        "radius_top": 8.32396840027908,
+        "n_layers": 4,
+        "layer_heights": [
+            45.3644121476721,
+            47.12913100003523
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "X"
+        ],
+        "Cost": 710.9419092508078,
+        "plausibility (FAMD GMM)": 4.121155607974248,
+        "plausibility (FAMD Mahalanobis)": 1.357408263018725,
+        "plausibility (SVM)": -2.0471315917301687,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": -0.33019563390519124,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.9308003011826411,
+        "wave": 479038.8726035939,
+        "combined": 55644987.49619667,
+        "compression": 55194529.09571366,
+        "tipover": 701756.5888720521,
+        "torque": 133247.80982076438
+    },
+    {
+        "id": "c11779",
+        "legs": 3,
+        "total_height": 25.828198553912156,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            8.818636374177427,
+            17.627813036337088
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "X"
+        ],
+        "Cost": 226.21955377008408,
+        "plausibility (FAMD GMM)": 5.000110433577027,
+        "plausibility (FAMD Mahalanobis)": 0.8639332229440926,
+        "plausibility (SVM)": -0.790742938262587,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.6989192810639,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.7569337443115707,
+        "wave": 654531.229381422,
+        "combined": 62245926.547590196,
+        "compression": 60827391.26643693,
+        "tipover": 1901976.0753977813,
+        "torque": 1568853.2329056645
+    },
+    {
+        "id": "m2037",
+        "legs": 3,
+        "total_height": 32.94552995236398,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            4.544287183532259,
+            7.905682031832551
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 302.6091843303871,
+        "plausibility (FAMD GMM)": 2.983640269257199,
+        "plausibility (FAMD Mahalanobis)": 0.8894026413479433,
+        "plausibility (SVM)": -0.7073751571646816,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 6.277033527307427,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.5207166905049743,
+        "wave": 571594.9547275861,
+        "combined": 53500544.889088385,
+        "compression": 53227966.308518395,
+        "tipover": 1532811.2112071498,
+        "torque": 874736.7091640924
+    },
+    {
+        "id": "c11227",
+        "legs": 3,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            12.662536742503132,
+            44.00249150671975
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "NONE"
+        ],
+        "Cost": 666.2707679336994,
+        "plausibility (FAMD GMM)": 5.474816363911152,
+        "plausibility (FAMD Mahalanobis)": 0.10791312859827747,
+        "plausibility (SVM)": -1.4055433081363353,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 0.9458741663084567,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.08346532216976676,
+        "wave": 171175.28028223693,
+        "combined": 45186404.02766582,
+        "compression": 44474595.28609199,
+        "tipover": 775858.6225646423,
+        "torque": 190595.39197275293
+    },
+    {
+        "id": "m2155",
+        "legs": 4,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            18.448772449906315,
+            21.674926657221473
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "X"
+        ],
+        "Cost": 228.136616471119,
+        "plausibility (FAMD GMM)": 2.6651866690120567,
+        "plausibility (FAMD Mahalanobis)": 1.7874874218168106,
+        "plausibility (SVM)": -1.1035175227031764,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.168072985565155,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.3999249323095047,
+        "wave": 644610.079863579,
+        "combined": 62683103.82398745,
+        "compression": 61875094.52586217,
+        "tipover": 1358636.5776551515,
+        "torque": 1185729.299959515
+    },
+    {
+        "id": "c7725",
+        "legs": 4,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            8.574557351952057,
+            43.86632173190932
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "X"
+        ],
+        "Cost": 1098.074826238849,
+        "plausibility (FAMD GMM)": 6.070826484913294,
+        "plausibility (FAMD Mahalanobis)": 0.5361887451114379,
+        "plausibility (SVM)": -1.053346066852915,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": -2.472015562975951,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.44874757932640996,
+        "wave": 94702.41246061987,
+        "combined": 30747575.284181114,
+        "compression": 31166011.476307314,
+        "tipover": 501922.7918403225,
+        "torque": 94577.03960726228
+    },
+    {
+        "id": "c11619",
+        "legs": 4,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            18.448772449906315,
+            21.674926657221473
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "NONE"
+        ],
+        "Cost": 729.6373870444835,
+        "plausibility (FAMD GMM)": 5.780657686453981,
+        "plausibility (FAMD Mahalanobis)": 0.47600278673904867,
+        "plausibility (SVM)": -1.0977883545214886,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": -1.1022434032795516,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.4402393995051206,
+        "wave": 136645.9200960919,
+        "combined": 40400431.856938556,
+        "compression": 40698202.37387389,
+        "tipover": 427034.83847621223,
+        "torque": 118998.03147947049
+    },
+    {
+        "id": "m2374",
+        "legs": 3,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 13.482790110628557,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            33.61993198187284,
+            53.556616921904784
+        ],
+        "connection_types": [
+            "K",
+            "K",
+            "X"
+        ],
+        "Cost": 775.9138720410617,
+        "plausibility (FAMD GMM)": 2.6213615120054605,
+        "plausibility (FAMD Mahalanobis)": 1.0579753913023948,
+        "plausibility (SVM)": 0.24354984261496293,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 6.323933166165951,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.8819607704104993,
+        "wave": 142783.37995367177,
+        "combined": 24014222.944038913,
+        "compression": 23290154.206835408,
+        "tipover": 834982.2678823979,
+        "torque": 259054.19998995078
+    },
+    {
+        "id": "c11486",
+        "legs": 4,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 13.482790110628557,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            2.4750162049833744,
+            22.710256472503172
+        ],
+        "connection_types": [
+            "X",
+            "K",
+            "NONE"
+        ],
+        "Cost": 697.2379584348552,
+        "plausibility (FAMD GMM)": 2.700688884625679,
+        "plausibility (FAMD Mahalanobis)": 0.9166277586347558,
+        "plausibility (SVM)": 0.7119684904690851,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 4.707616290453547,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.8297162628831902,
+        "wave": 218000.92717871582,
+        "combined": 27328203.430369027,
+        "compression": 26814791.18691715,
+        "tipover": 474672.5059490622,
+        "torque": 227169.1711920028
+    },
+    {
+        "id": "c11584",
+        "legs": 4,
+        "total_height": 35.107455606523274,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 12.292970036566404,
+        "n_layers": 4,
+        "layer_heights": [
+            17.627813036337088,
+            26.973454038699916
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 213.8431141304775,
+        "plausibility (FAMD GMM)": 0.9190954284211638,
+        "plausibility (FAMD Mahalanobis)": 0.5225290071666854,
+        "plausibility (SVM)": 0.48370488825369273,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 7.141047660138437,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.03737039212594162,
+        "wave": 1025485.6316715783,
+        "combined": 37867472.63385499,
+        "compression": 35367178.29630291,
+        "tipover": 2834867.0481937635,
+        "torque": 1492701.3329022764
+    },
+    {
+        "id": "m2387",
+        "legs": 3,
+        "total_height": 21.00492036979179,
+        "radius_bottom": 19.913177395342156,
+        "radius_top": 10.771274411375003,
+        "n_layers": 4,
+        "layer_heights": [
+            8.087336172268882,
+            10.036401375009556
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 319.7742728244602,
+        "plausibility (FAMD GMM)": 4.964193383889144,
+        "plausibility (FAMD Mahalanobis)": 0.29734768911400883,
+        "plausibility (SVM)": -0.7934763036234549,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 7.984615317563021,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.3078854368325388,
+        "wave": 216557.23640140286,
+        "combined": 65280419.88726396,
+        "compression": 64545491.72368056,
+        "tipover": 852283.6689355043,
+        "torque": 173788.36051358047
+    },
+    {
+        "id": "c10859",
+        "legs": 3,
+        "total_height": 47.53160120268135,
+        "radius_bottom": 19.913177395342156,
+        "radius_top": 8.707163826417592,
+        "n_layers": 4,
+        "layer_heights": [
+            41.69747544073957,
+            44.00249150671975
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 294.65232806391896,
+        "plausibility (FAMD GMM)": 3.984172885451754,
+        "plausibility (FAMD Mahalanobis)": 1.3905584087696523,
+        "plausibility (SVM)": -0.5715763427270892,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 3.58519570720026,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.906002715454715,
+        "wave": 1091911.9287590708,
+        "combined": 49171061.42465876,
+        "compression": 45933090.29375722,
+        "tipover": 3802569.336586267,
+        "torque": 2263912.708481064
+    },
+    {
+        "id": "c11533",
+        "legs": 4,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            2.4750162049833744,
+            21.674926657221473
+        ],
+        "connection_types": [
+            "K",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 364.20020442311295,
+        "plausibility (FAMD GMM)": 2.61537899352642,
+        "plausibility (FAMD Mahalanobis)": 0.5119146707233033,
+        "plausibility (SVM)": 0.2106356380100558,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.479771037633814,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.5748018193788624,
+        "wave": 304251.1797562657,
+        "combined": 40035562.51353334,
+        "compression": 39599559.544834875,
+        "tipover": 902611.3568370048,
+        "torque": 416716.0502252478
+    },
+    {
+        "id": "c11561",
+        "legs": 3,
+        "total_height": 32.94552995236398,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 10.771274411375003,
+        "n_layers": 4,
+        "layer_heights": [
+            15.741766990455003,
+            18.448772449906315
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 321.0006045524155,
+        "plausibility (FAMD GMM)": 1.9145309492572955,
+        "plausibility (FAMD Mahalanobis)": 0.2578495560023625,
+        "plausibility (SVM)": -0.5527353590859625,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 5.613726017459813,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.0010115364294733808,
+        "wave": 687788.5532354399,
+        "combined": 53233424.33076046,
+        "compression": 52095348.2648999,
+        "tipover": 2368402.9330945346,
+        "torque": 1298760.9621835616
+    },
+    {
+        "id": "c11525",
+        "legs": 3,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            14.833654908650953,
+            21.299404163710623
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "X"
+        ],
+        "Cost": 461.96661725317574,
+        "plausibility (FAMD GMM)": 4.725446308230663,
+        "plausibility (FAMD Mahalanobis)": 1.665118388895834,
+        "plausibility (SVM)": -2.365204538203604,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 5.620788809549261,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.4430777208570582,
+        "wave": 179190.3228238179,
+        "combined": 73514386.44799069,
+        "compression": 73105943.41241558,
+        "tipover": 579898.0159251163,
+        "torque": 134545.7325512709
+    },
+    {
+        "id": "c11773",
+        "legs": 4,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 19.913177395342156,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            21.299404163710623,
+            21.674926657221473
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 229.00630517965809,
+        "plausibility (FAMD GMM)": 2.3168386588775864,
+        "plausibility (FAMD Mahalanobis)": 2.025814231113287,
+        "plausibility (SVM)": -1.1166349088797651,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 6.622397774107197,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 2.1829186393976254,
+        "wave": 631529.4673759169,
+        "combined": 60167797.150791235,
+        "compression": 59314796.562534034,
+        "tipover": 1378892.3557403516,
+        "torque": 1204229.8277726818
+    },
+    {
+        "id": "c11661",
+        "legs": 4,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 13.482790110628557,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            3.874863859175876,
+            21.674926657221473
+        ],
+        "connection_types": [
+            "NONE",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 324.90686330007884,
+        "plausibility (FAMD GMM)": 2.5214232381231647,
+        "plausibility (FAMD Mahalanobis)": 1.0401330332161338,
+        "plausibility (SVM)": 1.5133577923618966,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 7.302952597999873,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.6787616684208952,
+        "wave": 1640688.856648704,
+        "combined": 34397638.33278367,
+        "compression": 27566809.052543167,
+        "tipover": 6527230.545270222,
+        "torque": 1890756.9451206597
+    },
+    {
+        "id": "c11754",
+        "legs": 4,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 13.482790110628557,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            18.448772449906315,
+            53.556616921904784
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "X"
+        ],
+        "Cost": 693.9873070332357,
+        "plausibility (FAMD GMM)": 5.077170015267007,
+        "plausibility (FAMD Mahalanobis)": 0.2241695629843853,
+        "plausibility (SVM)": 0.06600623332131272,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 3.6929286136366724,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.1620726604625311,
+        "wave": 292174.5268566258,
+        "combined": 31960429.53564237,
+        "compression": 32132698.06023141,
+        "tipover": 1695275.060289914,
+        "torque": 541947.808575498
+    },
+    {
+        "id": "c11469",
+        "legs": 3,
+        "total_height": 55.17824772670218,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            3.874863859175876,
+            18.448772449906315
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "NONE"
+        ],
+        "Cost": 590.7936116393857,
+        "plausibility (FAMD GMM)": 3.065424348337121,
+        "plausibility (FAMD Mahalanobis)": 0.9586936699087779,
+        "plausibility (SVM)": -0.5890698884096017,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 0.5195592932458233,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.4666876825630091,
+        "wave": 376498.1832477693,
+        "combined": 39755851.13150483,
+        "compression": 38272651.23360384,
+        "tipover": 1637660.5366654254,
+        "torque": 265546.1687621002
+    },
+    {
+        "id": "c11715",
+        "legs": 4,
+        "total_height": 57.271698127061185,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            15.741766990455003,
+            21.674926657221473
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "NONE"
+        ],
+        "Cost": 753.9101588674661,
+        "plausibility (FAMD GMM)": 5.619736780059738,
+        "plausibility (FAMD Mahalanobis)": 0.7035051799792611,
+        "plausibility (SVM)": -0.7121240257284618,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": -0.5976868133696769,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.3469138802959648,
+        "wave": 118919.04699635289,
+        "combined": 36257983.55184918,
+        "compression": 36731715.832961544,
+        "tipover": 475074.21453012596,
+        "torque": 128149.11351620992
+    },
+    {
+        "id": "c11523",
+        "legs": 4,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            1.4153952875131242,
+            9.358510753468586
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "X"
+        ],
+        "Cost": 1199.0456431208447,
+        "plausibility (FAMD GMM)": 2.392147090508281,
+        "plausibility (FAMD Mahalanobis)": 1.3385957423600836,
+        "plausibility (SVM)": -1.5623103459001633,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": -0.8906041081127078,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.09094455275906199,
+        "wave": 252797.06248152241,
+        "combined": 30438444.789178617,
+        "compression": 30407294.23848633,
+        "tipover": 512476.5694278758,
+        "torque": 153745.45985751203
+    },
+    {
+        "id": "c11797",
+        "legs": 3,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            3.874863859175876,
+            18.448772449906315
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 447.0646641739115,
+        "plausibility (FAMD GMM)": 3.180847201492794,
+        "plausibility (FAMD Mahalanobis)": 1.2047818782989024,
+        "plausibility (SVM)": 0.17096840021253934,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 3.027388530567153,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.4334436844737226,
+        "wave": 735086.1393431169,
+        "combined": 40681321.5333073,
+        "compression": 37689834.74773973,
+        "tipover": 3309801.4896428017,
+        "torque": 1249600.5943789133
+    },
+    {
+        "id": "m2209",
+        "legs": 3,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 20.595780331680295,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            15.741766990455003,
+            21.674926657221473
+        ],
+        "connection_types": [
+            "X",
+            "ZH",
+            "NONE"
+        ],
+        "Cost": 455.60670723163634,
+        "plausibility (FAMD GMM)": 3.828267701153625,
+        "plausibility (FAMD Mahalanobis)": 1.5894376147933986,
+        "plausibility (SVM)": -1.242018519403819,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.310952727260563,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.0072003542160513,
+        "wave": 194197.05427985586,
+        "combined": 94515680.17847304,
+        "compression": 94021676.50352332,
+        "tipover": 577546.2280420794,
+        "torque": 101496.83157273155
+    },
+    {
+        "id": "m2255",
+        "legs": 3,
+        "total_height": 46.2117260653925,
+        "radius_bottom": 13.482790110628557,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            6.592472082826651,
+            11.089067710957465
+        ],
+        "connection_types": [
+            "NONE",
+            "X",
+            "NONE"
+        ],
+        "Cost": 333.95533443214845,
+        "plausibility (FAMD GMM)": 2.6458139740419875,
+        "plausibility (FAMD Mahalanobis)": 0.9117292337442825,
+        "plausibility (SVM)": 0.3654583600379433,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 6.062650268962061,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.8663293177994298,
+        "wave": 808383.1227982496,
+        "combined": 38186275.906581454,
+        "compression": 36295894.5982723,
+        "tipover": 3154611.645064607,
+        "torque": 884111.1496206011
+    },
+    {
+        "id": "m2174",
+        "legs": 4,
+        "total_height": 22.01029589358859,
+        "radius_bottom": 17.284822094650938,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            14.833654908650953,
+            18.908499845981908
+        ],
+        "connection_types": [
+            "NONE",
+            "K",
+            "NONE"
+        ],
+        "Cost": 257.8220657745473,
+        "plausibility (FAMD GMM)": 5.462026591012419,
+        "plausibility (FAMD Mahalanobis)": 1.5257866066312518,
+        "plausibility (SVM)": -0.0343701496997304,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 8.036250058531468,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 1.4322733967289665,
+        "wave": 475587.5487685359,
+        "combined": 50747809.08583487,
+        "compression": 50116219.26142508,
+        "tipover": 1131338.7455118264,
+        "torque": 1009135.6887555053
+    },
+    {
+        "id": "c11086",
+        "legs": 3,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 11.393190736013004,
+        "n_layers": 4,
+        "layer_heights": [
+            3.874863859175876,
+            18.448772449906315
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 449.01209424681633,
+        "plausibility (FAMD GMM)": 3.257849218554223,
+        "plausibility (FAMD Mahalanobis)": 1.2228264884086912,
+        "plausibility (SVM)": 0.22441978049338696,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 3.1963800013810957,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": 0.5543171047300195,
+        "wave": 745366.0804878644,
+        "combined": 40592842.15433318,
+        "compression": 37538348.005840585,
+        "tipover": 3406206.1965487106,
+        "torque": 1249167.6833579375
+    },
+    {
+        "id": "c10189",
+        "legs": 3,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 13.482790110628557,
+        "radius_top": 11.01625418724907,
+        "n_layers": 4,
+        "layer_heights": [
+            7.905682031832551,
+            12.662536742503132
+        ],
+        "connection_types": [
+            "X",
+            "NONE",
+            "NONE"
+        ],
+        "Cost": 400.65334872218057,
+        "plausibility (FAMD GMM)": 2.3850456833283564,
+        "plausibility (FAMD Mahalanobis)": 1.1305012676826707,
+        "plausibility (SVM)": 0.599173126347035,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 5.669730584578396,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.5582108266894785,
+        "wave": 667649.8396605304,
+        "combined": 39879483.41684519,
+        "compression": 38357480.86421219,
+        "tipover": 3726320.026847195,
+        "torque": 717668.9602638301
+    },
+    {
+        "id": "c11704",
+        "legs": 3,
+        "total_height": 65.6010264261732,
+        "radius_bottom": 18.534795511096586,
+        "radius_top": 7.3133064649110135,
+        "n_layers": 4,
+        "layer_heights": [
+            15.741766990455003,
+            18.448772449906315
+        ],
+        "connection_types": [
+            "X",
+            "X",
+            "NONE"
+        ],
+        "Cost": 602.9314924283985,
+        "plausibility (FAMD GMM)": 3.5346288059636053,
+        "plausibility (FAMD Mahalanobis)": 0.7693674913014933,
+        "plausibility (SVM)": -1.0699766657055014,
+        "plausibility (One Class SVM) gamma=scale nu=0.5": 1.1206654747772475,
+        "plausibility (FAMD One Class SVM) gamma=scale nu=0.5": -0.6185283600200453,
+        "wave": 283138.6806416232,
+        "combined": 50112079.69207463,
+        "compression": 49387520.2392343,
+        "tipover": 1218651.7400171147,
+        "torque": 299445.83608550346
+    }
+]
