@@ -3,10 +3,19 @@ Code for our paper titled
 
 "Generative AI based Augmentation for Offshore Jacket Design: An Integrated Approach for Mixed Tabular Data Generation under Data Scarcity and Imbalance"
 
----
+## Installation instructions
+Create a new conda environment
+
+```conda create --name ojda python=3.11```
+
+Install all requirements
+
+```pip install -r requirements.txt```
+
+## Utilization
+
 
 The dataset of the 100 real jacket substructure designs described in our paper can be found under [real_structures.json](real_structures.json)
-
 
 ---
 
