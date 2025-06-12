@@ -1,7 +1,9 @@
 # Offshore_Jacket_Design_Augmentation
 Code for our paper titled 
 
-"Generative AI-augmented Offshore Jacket Design: Integrated Approach for Mixed Tabular Data Generation under Scarcity and Imbalance"
+"Generative AI-augmented offshore jacket design: Integrated approach for mixed tabular data generation under scarcity and imbalance"
+
+Published in the Journal of Automation in Construction. Open access https://doi.org/10.1016/j.autcon.2025.106287
 
 ## Installation instructions
 Create a new conda environment
@@ -54,3 +56,17 @@ synthetic samples.*
 *Figure 10: Joint scatter plot of our evaluation metrics for different runs of NSGA-II, by gradually increasing (left → right) the plausibility threshold.*
 
 ---
+If you use this work in your research or projects, please consider citing the following publication:
+
+```bibtex
+@article{PANAGIOTOU2025106287,
+  title = {Generative AI-augmented offshore jacket design: Integrated approach for mixed tabular data generation under scarcity and imbalance},
+  journal = {Automation in Construction},
+  volume = {177},
+  pages = {106287},
+  year = {2025},
+  issn = {0926-5805},
+  doi = {https://doi.org/10.1016/j.autcon.2025.106287},
+  url = {https://www.sciencedirect.com/science/article/pii/S0926580525003279},
+  author = {Emmanouil Panagiotou and Han Qian and Steffen Marx and Eirini Ntoutsi},
+}
